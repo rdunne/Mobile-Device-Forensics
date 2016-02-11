@@ -3,7 +3,7 @@
 
 # load your modules , hashlib does not by default suport SHA3
 # install from https://pypi.python.org/pypi/pysha3/
-# python 3.4
+# interp python 3.4
 import sys
 import hashlib
 from sha3 import sha3_256, sha3_512
